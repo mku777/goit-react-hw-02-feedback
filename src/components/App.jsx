@@ -33,6 +33,8 @@ class App extends Component {
 
     return (
       <div  style={{
+        background: 'linear-gradient(to top, #ffd700, #0057b8)',
+        boxShadow: '1px 1px 1px 1px rgba(0, 4, 56, 0.5)',
         margin: '50px auto',
         width: '400px',
         border: '1px solid black',
